@@ -3,9 +3,9 @@
 <table>
   <thead>
     <tr>
-      <td>Attribute Name</td>
-      <td>Description</td>
-      <td>Example</td>
+      <th>Attribute Name</th>
+      <th>Description</th>
+      <th>Example</th>
     </tr>
   </thead>
   <tbody>
