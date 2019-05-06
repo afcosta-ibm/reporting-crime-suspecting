@@ -3,522 +3,522 @@ Table 4: Original Table with the Relationship between main and secondary reports
 <table>
   <thead>
     <tr>
-      <th>Entity Name</th>
-      <th>Entity Name</th>
-      <th>Entity Value</th>
-      <th>Synonyms</th>
+      <th>Classe Principal</th>
+      <th>Subclasse principal</th>
+      <th>Subclasse secundária</th>
+      <th>peso</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td nowrap>SUBSTÂNCIAS ENTORPECENTES</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap></td>
-      <td nowrap>4669</td>
+      <td>SUBSTÂNCIAS ENTORPECENTES</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td></td>
+      <td>4669</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A ADM DA JUSTIÇA</td>
-      <td nowrap>LOCALIZAÇÃO DE FORAGIDOS DA JUSTIÇA</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>480</td>
+      <td>CRIMES CONTRA A ADM DA JUSTIÇA</td>
+      <td>LOCALIZAÇÃO DE FORAGIDOS DA JUSTIÇA</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>480</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
-      <td nowrap>OBSTRUÇÃO DE VIAS PÚBLICAS</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>471</td>
+      <td>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
+      <td>OBSTRUÇÃO DE VIAS PÚBLICAS</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>471</td>
     </tr>
     <tr>
-      <td nowrap>PERTURBAÇÃO DA ORDEM PÚBLICA</td>
-      <td nowrap>BARULHO</td>
-      <td nowrap>APOLOGIA AO TRÁFICO</td>
-      <td nowrap>427</td>
+      <td>PERTURBAÇÃO DA ORDEM PÚBLICA</td>
+      <td>BARULHO</td>
+      <td>APOLOGIA AO TRÁFICO</td>
+      <td>427</td>
     </tr>
     <tr>
-      <td nowrap>SUBSTÂNCIAS ENTORPECENTES</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap></td>
-      <td nowrap>424</td>
+      <td>SUBSTÂNCIAS ENTORPECENTES</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td></td>
+      <td>424</td>
     </tr>
     <tr>
-      <td nowrap>SUBSTÂNCIAS ENTORPECENTES</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>324</td>
+      <td>SUBSTÂNCIAS ENTORPECENTES</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>324</td>
     </tr>
     <tr>
-      <td nowrap>ARMAS DE FOGO E ARTEFATOS EXPLOSIVOS</td>
-      <td nowrap>POSSE  ILÍCITA DE  ARMAS FOGO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>263</td>
+      <td>ARMAS DE FOGO E ARTEFATOS EXPLOSIVOS</td>
+      <td>POSSE  ILÍCITA DE  ARMAS FOGO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>263</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A PESSOA</td>
-      <td nowrap>HOMICÍDIO CONSUMADO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>207</td>
+      <td>CRIMES CONTRA A PESSOA</td>
+      <td>HOMICÍDIO CONSUMADO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>207</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>ROUBO DE CARGA</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>192</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>ROUBO DE CARGA</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>192</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A PESSOA</td>
-      <td nowrap>VIOLÊNCIA CONTRA MULHER</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>165</td>
+      <td>CRIMES CONTRA A PESSOA</td>
+      <td>VIOLÊNCIA CONTRA MULHER</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>165</td>
     </tr>
     <tr>
-      <td nowrap>PERTURBAÇÃO DA ORDEM PÚBLICA</td>
-      <td nowrap>BARULHO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>153</td>
+      <td>PERTURBAÇÃO DA ORDEM PÚBLICA</td>
+      <td>BARULHO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>153</td>
     </tr>
     <tr>
-      <td nowrap>SUBSTÂNCIAS ENTORPECENTES</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>APOLOGIA AO TRÁFICO</td>
-      <td nowrap>140</td>
+      <td>SUBSTÂNCIAS ENTORPECENTES</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>APOLOGIA AO TRÁFICO</td>
+      <td>140</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A PESSOA</td>
-      <td nowrap>AMEAÇA</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>130</td>
+      <td>CRIMES CONTRA A PESSOA</td>
+      <td>AMEAÇA</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>130</td>
     </tr>
     <tr>
-      <td nowrap>SUBSTÂNCIAS ENTORPECENTES</td>
-      <td nowrap>TIROTEIO ENTRE QUADRILHAS</td>
-      <td nowrap></td>
-      <td nowrap>130</td>
+      <td>SUBSTÂNCIAS ENTORPECENTES</td>
+      <td>TIROTEIO ENTRE QUADRILHAS</td>
+      <td></td>
+      <td>130</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
-      <td nowrap>MAUS TRATOS</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>119</td>
+      <td>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
+      <td>MAUS TRATOS</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>119</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>ROUBO DE VEÍCULOS AUTOMOTORES</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>115</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>ROUBO DE VEÍCULOS AUTOMOTORES</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>115</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A PESSOA</td>
-      <td nowrap>VIOLÊNCIA CONTRA IDOSO</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>91</td>
+      <td>CRIMES CONTRA A PESSOA</td>
+      <td>VIOLÊNCIA CONTRA IDOSO</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>91</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
-      <td nowrap>EST COMERCIAL/INDUSTRIAL SEM ALVARÁ</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>91</td>
+      <td>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
+      <td>EST COMERCIAL/INDUSTRIAL SEM ALVARÁ</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>91</td>
     </tr>
     <tr>
-      <td nowrap>SUBSTÂNCIAS ENTORPECENTES</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>TIROTEIO ENTRE QUADRILHAS</td>
-      <td nowrap>90</td>
+      <td>SUBSTÂNCIAS ENTORPECENTES</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>TIROTEIO ENTRE QUADRILHAS</td>
+      <td>90</td>
     </tr>
     <tr>
-      <td nowrap>PERTURBAÇÃO DA ORDEM PÚBLICA</td>
-      <td nowrap>BARULHO</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>89</td>
+      <td>PERTURBAÇÃO DA ORDEM PÚBLICA</td>
+      <td>BARULHO</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>89</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>VEÍCULOS ABANDONADOS</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>69</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>VEÍCULOS ABANDONADOS</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>69</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>INVASÃO DE PROPRIEDADE</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>65</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>INVASÃO DE PROPRIEDADE</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>65</td>
     </tr>
     <tr>
-      <td nowrap>ARMAS DE FOGO E ARTEFATOS EXPLOSIVOS</td>
-      <td nowrap>GUARDA/COMÉRCIO ILÍCITO DE ARMAS FOGO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>62</td>
+      <td>ARMAS DE FOGO E ARTEFATOS EXPLOSIVOS</td>
+      <td>GUARDA/COMÉRCIO ILÍCITO DE ARMAS FOGO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>62</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>ROUBO/FURTO A TRANSEUNTES</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>59</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>ROUBO/FURTO A TRANSEUNTES</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>59</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES PRATICADOS POR FUNC. PUBLICOS</td>
-      <td nowrap>DESVIO DE CONDUTA</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>51</td>
+      <td>CRIMES PRATICADOS POR FUNC. PUBLICOS</td>
+      <td>DESVIO DE CONDUTA</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>51</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>ROUBO/FURTO A TRANSEUNTES</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>50</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>ROUBO/FURTO A TRANSEUNTES</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>50</td>
     </tr>
     <tr>
-      <td nowrap>SUBSTÂNCIAS ENTORPECENTES</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>46</td>
+      <td>SUBSTÂNCIAS ENTORPECENTES</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>46</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
-      <td nowrap>JOGOS DE AZAR</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>44</td>
+      <td>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
+      <td>JOGOS DE AZAR</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>44</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
-      <td nowrap>ABANDONO</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>40</td>
+      <td>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
+      <td>ABANDONO</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>40</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>EXTORSÃO SIMPLES</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>39</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>EXTORSÃO SIMPLES</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>39</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES PRATICADOS POR FUNC. PUBLICOS</td>
-      <td nowrap>CORRUPÇÃO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>37</td>
+      <td>CRIMES PRATICADOS POR FUNC. PUBLICOS</td>
+      <td>CORRUPÇÃO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>37</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A LIBERDADE SEXUAL</td>
-      <td nowrap>ESTUPRO</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>34</td>
+      <td>CRIMES CONTRA A LIBERDADE SEXUAL</td>
+      <td>ESTUPRO</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>34</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A PESSOA</td>
-      <td nowrap>ENCONTRO DE CADÁVER</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>34</td>
+      <td>CRIMES CONTRA A PESSOA</td>
+      <td>ENCONTRO DE CADÁVER</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>34</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A PESSOA</td>
-      <td nowrap>SEQÜESTRO SIMPLES E CÁRCERE PRIVADO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>31</td>
+      <td>CRIMES CONTRA A PESSOA</td>
+      <td>SEQÜESTRO SIMPLES E CÁRCERE PRIVADO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>31</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A LIBERDADE SEXUAL</td>
-      <td nowrap>FAVORECIMENTO À PROSTITUIÇÃO/LENOCÍNIO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>29</td>
+      <td>CRIMES CONTRA A LIBERDADE SEXUAL</td>
+      <td>FAVORECIMENTO À PROSTITUIÇÃO/LENOCÍNIO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>29</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
-      <td nowrap>VENDA DE BEBIDAS ALCOÓLICAS À MENORES</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>27</td>
+      <td>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
+      <td>VENDA DE BEBIDAS ALCOÓLICAS À MENORES</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>27</td>
     </tr>
     <tr>
-      <td nowrap>ARMAS DE FOGO E ARTEFATOS EXPLOSIVOS</td>
-      <td nowrap>USO ILÍCITO DE ARMAS FOGO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>27</td>
+      <td>ARMAS DE FOGO E ARTEFATOS EXPLOSIVOS</td>
+      <td>USO ILÍCITO DE ARMAS FOGO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>27</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A PESSOA</td>
-      <td nowrap>AMEAÇA</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>27</td>
+      <td>CRIMES CONTRA A PESSOA</td>
+      <td>AMEAÇA</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>27</td>
     </tr>
     <tr>
-      <td nowrap>SUBSTÂNCIAS ENTORPECENTES</td>
-      <td nowrap>TIROTEIO ENTRE QUADRILHAS</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>25</td>
+      <td>SUBSTÂNCIAS ENTORPECENTES</td>
+      <td>TIROTEIO ENTRE QUADRILHAS</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>25</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A LIBERDADE SEXUAL</td>
-      <td nowrap>ESTUPRO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>24</td>
+      <td>CRIMES CONTRA A LIBERDADE SEXUAL</td>
+      <td>ESTUPRO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>24</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
-      <td nowrap>EST COMERCIAL/INDUSTRIAL SEM ALVARÁ</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>24</td>
+      <td>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
+      <td>EST COMERCIAL/INDUSTRIAL SEM ALVARÁ</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>24</td>
     </tr>
     <tr>
-      <td nowrap>ARMAS DE FOGO E ARTEFATOS EXPLOSIVOS</td>
-      <td nowrap>POSSE  ILÍCITA DE  ARMAS FOGO</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>22</td>
+      <td>ARMAS DE FOGO E ARTEFATOS EXPLOSIVOS</td>
+      <td>POSSE  ILÍCITA DE  ARMAS FOGO</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>22</td>
     </tr>
     <tr>
-      <td nowrap>SUBSTÂNCIAS ENTORPECENTES</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>APOLOGIA AO TRÁFICO</td>
-      <td nowrap>22</td>
+      <td>SUBSTÂNCIAS ENTORPECENTES</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>APOLOGIA AO TRÁFICO</td>
+      <td>22</td>
     </tr>
     <tr>
-      <td nowrap>PERTURBAÇÃO DA ORDEM PÚBLICA</td>
-      <td nowrap>BADERNA</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>22</td>
+      <td>PERTURBAÇÃO DA ORDEM PÚBLICA</td>
+      <td>BADERNA</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>22</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
-      <td nowrap>CRIANÇA E ADOLESCENTE INFRATOR</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>21</td>
+      <td>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
+      <td>CRIANÇA E ADOLESCENTE INFRATOR</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>21</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A PESSOA</td>
-      <td nowrap>VIOLÊNCIA CONTRA MULHER</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>20</td>
+      <td>CRIMES CONTRA A PESSOA</td>
+      <td>VIOLÊNCIA CONTRA MULHER</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>20</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
-      <td nowrap>VENDA DE BEBIDAS ALCOÓLICAS À MENORES</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>20</td>
+      <td>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
+      <td>VENDA DE BEBIDAS ALCOÓLICAS À MENORES</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>20</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
-      <td nowrap>CORRUPÇÃO DE MENORES</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>20</td>
+      <td>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
+      <td>CORRUPÇÃO DE MENORES</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>20</td>
     </tr>
     <tr>
-      <td nowrap>PERTURBAÇÃO DA ORDEM PÚBLICA</td>
-      <td nowrap>BADERNA</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>20</td>
+      <td>PERTURBAÇÃO DA ORDEM PÚBLICA</td>
+      <td>BADERNA</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>20</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A PESSOA</td>
-      <td nowrap>TENTATIVA DE HOMICÍDIO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>19</td>
+      <td>CRIMES CONTRA A PESSOA</td>
+      <td>TENTATIVA DE HOMICÍDIO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>19</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>RECEP/COMERC PROD ROUBADOS/FURTADOS</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>18</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>RECEP/COMERC PROD ROUBADOS/FURTADOS</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>18</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>DESMONTE VEÍCULOS</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>18</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>DESMONTE VEÍCULOS</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>18</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES PRATICADOS POR FUNC. PUBLICOS</td>
-      <td nowrap>CONCUSSÃO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>18</td>
+      <td>CRIMES PRATICADOS POR FUNC. PUBLICOS</td>
+      <td>CONCUSSÃO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>18</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
-      <td nowrap>CRIANÇA E ADOLESCENTE INFRATOR</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>17</td>
+      <td>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
+      <td>CRIANÇA E ADOLESCENTE INFRATOR</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>17</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A ADM DA JUSTIÇA</td>
-      <td nowrap>LOCALIZAÇÃO DE FORAGIDOS DA JUSTIÇA</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>16</td>
+      <td>CRIMES CONTRA A ADM DA JUSTIÇA</td>
+      <td>LOCALIZAÇÃO DE FORAGIDOS DA JUSTIÇA</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>16</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>VEÍCULOS ABANDONADOS</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>15</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>VEÍCULOS ABANDONADOS</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>15</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A PESSOA</td>
-      <td nowrap>LESÃO CORPORAL</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>15</td>
+      <td>CRIMES CONTRA A PESSOA</td>
+      <td>LESÃO CORPORAL</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>15</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
-      <td nowrap>JOGOS DE AZAR</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>15</td>
+      <td>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
+      <td>JOGOS DE AZAR</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>15</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
-      <td nowrap>OBRA IRREGULAR</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>14</td>
+      <td>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
+      <td>OBRA IRREGULAR</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>14</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>INVASÃO DE PROPRIEDADE</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>14</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>INVASÃO DE PROPRIEDADE</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>14</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A LIBERDADE SEXUAL</td>
-      <td nowrap>FAVORECIMENTO À PROSTITUIÇÃO/LENOCÍNIO</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>14</td>
+      <td>CRIMES CONTRA A LIBERDADE SEXUAL</td>
+      <td>FAVORECIMENTO À PROSTITUIÇÃO/LENOCÍNIO</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>14</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
-      <td nowrap>EST COMERCIAL/INDUSTRIAL SEM ALVARÁ</td>
-      <td nowrap>APOLOGIA AO TRÁFICO</td>
-      <td nowrap>14</td>
+      <td>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
+      <td>EST COMERCIAL/INDUSTRIAL SEM ALVARÁ</td>
+      <td>APOLOGIA AO TRÁFICO</td>
+      <td>14</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
-      <td nowrap>CORRUPÇÃO DE MENORES</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>14</td>
+      <td>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
+      <td>CORRUPÇÃO DE MENORES</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>14</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>ESTELIONATO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>13</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>ESTELIONATO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>13</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A PESSOA</td>
-      <td nowrap>VIOLÊNCIA CONTRA IDOSO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>12</td>
+      <td>CRIMES CONTRA A PESSOA</td>
+      <td>VIOLÊNCIA CONTRA IDOSO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>12</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
-      <td nowrap>USO ILEGAL DE SERVIÇOS PÚBLICOS</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>12</td>
+      <td>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
+      <td>USO ILEGAL DE SERVIÇOS PÚBLICOS</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>12</td>
     </tr>
     <tr>
-      <td nowrap>SUBSTÂNCIAS ENTORPECENTES</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>12</td>
+      <td>SUBSTÂNCIAS ENTORPECENTES</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>12</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A ADM DA JUSTIÇA</td>
-      <td nowrap>UTILIZAÇÃO DE RÁDIO-TELEFONIA</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>11</td>
+      <td>CRIMES CONTRA A ADM DA JUSTIÇA</td>
+      <td>UTILIZAÇÃO DE RÁDIO-TELEFONIA</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>11</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>RECEP/COMERC PROD ROUBADOS/FURTADOS</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>11</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>RECEP/COMERC PROD ROUBADOS/FURTADOS</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>11</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>ROUBO/FURTO A RESIDÊNCIAS</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>10</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>ROUBO/FURTO A RESIDÊNCIAS</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>10</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O MEIO AMBIENTE</td>
-      <td nowrap>MAUS TRATOS CONTRA ANIMAIS</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>10</td>
+      <td>CRIMES CONTRA O MEIO AMBIENTE</td>
+      <td>MAUS TRATOS CONTRA ANIMAIS</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>10</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
-      <td nowrap>MAUS TRATOS</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>10</td>
+      <td>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
+      <td>MAUS TRATOS</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>10</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A PESSOA</td>
-      <td nowrap>HOMICÍDIO CONSUMADO</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>10</td>
+      <td>CRIMES CONTRA A PESSOA</td>
+      <td>HOMICÍDIO CONSUMADO</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>10</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>EXTORSÃO SIMPLES</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>10</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>EXTORSÃO SIMPLES</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>10</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A PESSOA</td>
-      <td nowrap>VIOLÊNCIA CONTRA DEFICIENTES</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>9</td>
+      <td>CRIMES CONTRA A PESSOA</td>
+      <td>VIOLÊNCIA CONTRA DEFICIENTES</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>9</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES DE TRÂNSITO</td>
-      <td nowrap>TRANSPORTE ALTERNATIVO IRREGULAR</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>9</td>
+      <td>CRIMES DE TRÂNSITO</td>
+      <td>TRANSPORTE ALTERNATIVO IRREGULAR</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>9</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
-      <td nowrap>PROSTITUIÇÃO INFANTIL</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>9</td>
+      <td>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
+      <td>PROSTITUIÇÃO INFANTIL</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>9</td>
     </tr>
     <tr>
-      <td nowrap>SUBSTÂNCIAS TÓXICAS / EXPLOSIVAS</td>
-      <td nowrap>DEPÓSITO CLANDESTINO DE GÁS</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>9</td>
+      <td>SUBSTÂNCIAS TÓXICAS / EXPLOSIVAS</td>
+      <td>DEPÓSITO CLANDESTINO DE GÁS</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>9</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
-      <td nowrap>PRESENÇA DE MENORES CASA NOTURNA</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>8</td>
+      <td>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
+      <td>PRESENÇA DE MENORES CASA NOTURNA</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>8</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
-      <td nowrap>OBSTRUÇÃO DE VIAS PÚBLICAS</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>8</td>
+      <td>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
+      <td>OBSTRUÇÃO DE VIAS PÚBLICAS</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>8</td>
     </tr>
     <tr>
-      <td nowrap>ARMAS DE FOGO E ARTEFATOS EXPLOSIVOS</td>
-      <td nowrap>GUARDA E COMÉRCIO DE MUNIÇÃO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>8</td>
+      <td>ARMAS DE FOGO E ARTEFATOS EXPLOSIVOS</td>
+      <td>GUARDA E COMÉRCIO DE MUNIÇÃO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>8</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
-      <td nowrap>RÁDIO/TV/TELEFONIA CLANDESTINA</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>7</td>
+      <td>CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA</td>
+      <td>RÁDIO/TV/TELEFONIA CLANDESTINA</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>7</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA O PATRIMÔNIO</td>
-      <td nowrap>ESTELIONATO</td>
-      <td nowrap>CONSUMO DE DROGAS</td>
-      <td nowrap>7</td>
+      <td>CRIMES CONTRA O PATRIMÔNIO</td>
+      <td>ESTELIONATO</td>
+      <td>CONSUMO DE DROGAS</td>
+      <td>7</td>
     </tr>
     <tr>
-      <td nowrap>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
-      <td nowrap>ABANDONO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>7</td>
+      <td>CRIMES CONTRA CRIANÇA E O ADOLESCENTE</td>
+      <td>ABANDONO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>7</td>
     </tr>
     <tr>
-      <td nowrap>PERTURBAÇÃO DA ORDEM PÚBLICA</td>
-      <td nowrap>VANDALISMO</td>
-      <td nowrap>TRÁFICO DE DROGAS</td>
-      <td nowrap>6</td>
+      <td>PERTURBAÇÃO DA ORDEM PÚBLICA</td>
+      <td>VANDALISMO</td>
+      <td>TRÁFICO DE DROGAS</td>
+      <td>6</td>
     </tr>
   </tbody>
 </table> 
