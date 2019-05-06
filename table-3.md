@@ -14,42 +14,22 @@
     </tr>
     <tr>
       <td>funk proibidão</td>
-      <td>proibidão,</br>
-        pancadão
+      <td>proibidão, pancadão
       </td>
     </tr>
     <tr>
       <td>sexo</td>
-      <td>bunda de fora,</br>
-        peito de fora,</br>
-        transando,</br>
-        passando a mão na bunda dela,</br>
-        descendo até o chão
+      <td>bunda de fora, peito de fora, transando, passando a mão na bunda dela, descendo até o chão
       </td>
     </tr>
     <tr>
       <td>mccatra</td>
-      <td>mcjapa,</br>
-        mc livinho,</br>
-        mc smith,</br>
-        mc jajá,</br>
-        mc colibri,</br>
-        mc robert,</br>
-        mc brinquedo,</br>
-        bandivas,</br>
-        mc palito,</br>
-        dadinho,</br>
-        os faceiros,</br>
-        os avassaladores,</br>
-        mc k9
+      <td>mcjapa, mc livinho, mc smith, mc jajá, mc colibri, mc robert, mc brinquedo, bandivas, mc palito, dadinho, os faceiros, os avassaladores, mc k9
       </td>
     </tr>
     <tr>
       <td>portando armas</td>
-      <td>segurando fuzil,</br>
-        com pistolas,</br>
-        dando tiro,</br>
-        mostrando a pistola
+      <td>segurando fuzil, com pistolas, dando tiro, mostrando a pistola
       </td>
     </tr>
     <tr>
@@ -58,44 +38,19 @@
     <tr>
       <td>metralhadora</td>
       <td>
-        ponto 50,</br>
-        fuzil,</br>
-        ferramenta,</br>
-        AR15,</br>
-        AK47,</br>
-        uzi,</br>
-        mp5,</br>
-        p90,</br>
-        sten,</br>
-        m4a1
+        ponto 50, fuzil, ferramenta, AR15, AK47, uzi, mp5, p90, sten, m4a1
       </td>
     </tr>
     <tr>
       <td>pistola</td>
       <td>
-        trabuco,</br>
-        revólver,</br>
-        arma de fogo,</br>
-        ferro,</br>
-        p380,</br>
-        glock,</br>
-        p226,</br>
-        sig sauer,</br>
-        pt 92,</br>
-        beretta,</br>
-        bereta,</br>
-        colt
+        trabuco, revólver, arma de fogo, ferro, p380, glock, p226, sig sauer, pt 92, beretta, bereta, colt
       </td>
     </tr>
     <tr>
       <td>faca</td>
       <td>
-        navalha,</br>
-        gilete,</br>
-        canivete,</br>
-        facão,</br>
-        espada,</br>
-        cortador
+        navalha, gilete, canivete, facão, espada, cortador
       </td>
     </tr>
   </tbody>
