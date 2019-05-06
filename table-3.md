@@ -164,5 +164,187 @@
       <td nowrap>Rio de Janeiro</td>
       <td>bronx, dc, duque de caxias, nikiti, nikity, niterói, RJ, são gonça, são gonçalo, rio</td>
     </tr>
+    <tr>
+      <td colspan="3"></td>
+    </tr>
+    <tr>
+      <td rowspan="10">@Envolvidos</td>
+    </tr>
+    <tr>
+      <td nowrap>Careca</td>
+      <td>cabelo comprido, cabelo curto, cabelo preto, cabeludo, calvo, dread, louro, pouca telha, rastafari, ruivo, cabeludos</td>
+    </tr>
+    <tr>
+      <td nowrap>Transexual</td>
+      <td>homem, mulher, viado, gay, bicha</td>
+    </tr>
+    <tr>
+      <td nowrap>Olho</td>
+      <td>olho azul, olho castanho, olho esverdeado, olho mel, olho preto, olho verde, olhos, olhos pretos, olhos castanhos, olhos azuis, olhos cor de mel, olhos verdes</td>
+    </tr>
+    <tr>
+      <td nowrap>Alto</td>
+      <td>baixinho, baixo, gigante, mediana, altão, médio, anão</td>
+    </tr>
+    <tr>
+      <td nowrap>Galera</td>
+      <td>muvuca, cabeçada, aglomeração, patota, pessoas</td>
+    </tr>
+    <tr>
+      <td nowrap>Branco</td>
+      <td>branco azedo, gringo, índio, mameluco, moreno, mulato, negão, negro, pardo, brancos, negros, albino, asiático, branquelo, cafuso, chines, chinês, negões</td>
+    </tr>
+    <tr>
+      <td nowrap>Magro</td>
+      <td>cheinho, gordão, gordo, magrão, magrelo, obeso, vareta, magros, gordos, magrelos</td>
+    </tr>
+    <tr>
+      <td nowrap>Traficantes</td>
+      <td>criminoso, traficante, traficadores, traficador, criminosos</td>
+    </tr>
+    <tr>
+      <td nowrap>Orelhudo</td>
+      <td>beiçola, bocão, nareba, narigudo, zoiudo, orelhudos</td>
+    </tr>
+    <tr>
+      <td colspan="3"></td>
+    </tr>
+    <tr>
+      <td rowspan="7">@Faccao</td>
+    </tr>
+    <tr>
+      <td nowrap>CRBC</td>
+      <td>Comando RevolucionárioBrasileiro da Criminalidade</td>
+    </tr>
+    <tr>
+      <td nowrap>PCC</td>
+      <td>Primeiro Comando da Capital, Primeiro Comando Capital</td>
+    </tr>
+    <tr>
+      <td nowrap>FDN</td>
+      <td>Família do norte, Família norte, familia norte, familia do norte</td>
+    </tr>
+    <tr>
+      <td nowrap>ADA</td>
+      <td>amigos dos amigos, amigo do amigo</td>
+    </tr>
+    <tr>
+      <td nowrap>Terceiro Comando</td>
+      <td>3C, Terceiro</td>
+    </tr>
+    <tr>
+      <td nowrap>Comando vermelho</td>
+      <td>CV</td>
+    </tr>
+    <tr>
+      <td colspan="3"></td>
+    </tr>
+    <tr>
+      <td rowspan="27">@Traficante</td>
+    </tr>
+    <tr>
+      <td nowrap>Batman</td>
+      <td>Ricardo Teixeira da Cruz</td>
+    </tr>
+    <tr>
+      <td nowrap>Cagado</td>
+      <td>Daniel da Silva Aviz</td>
+    </tr>
+    <tr>
+      <td nowrap>comerciante de drogas</td>
+      <td>chefão, manda chuva</td>
+    </tr>
+    <tr>
+      <td nowrap>Marcos Vabos Ramos</td>
+      <td>Marquinho Rin tin tin</td>
+    </tr>
+    <tr>
+      <td nowrap>Marlucia Rodrigues Moreira</td>
+      <td>Tiazinha da Rocinha</td>
+    </tr>
+    <tr>
+      <td nowrap>Marquinho sem Cérebro</td>
+      <td>Marcos Pauo Moreira da Silva</td>
+    </tr>
+    <tr>
+      <td nowrap>Elefantinha</td>
+      <td>Edileuza Maria Santos da Silva</td>
+    </tr>
+    <tr>
+      <td nowrap>Cara de Pera</td>
+      <td>Henrique Oliveira da Costa</td>
+    </tr>
+    <tr>
+      <td nowrap>Quatro Molas</td>
+      <td>José Sergio da Silva</td>
+    </tr>
+    <tr>
+      <td nowrap>Piroca</td>
+      <td>Anderson da Silva Caldeiras</td>
+    </tr>
+    <tr>
+      <td nowrap>Marquinho sem Pescoço</td>
+      <td>Marcus Cesar dos Reis e Vaz</td>
+    </tr>
+    <tr>
+      <td nowrap>Gardenal</td>
+      <td>Luis Claudio de Almeida Fernandes</td>
+    </tr>
+    <tr>
+      <td nowrap>Schumaker</td>
+      <td>Schumaker Antonácio do Rosário</td>
+    </tr>
+    <tr>
+      <td nowrap>Boca Murcha</td>
+      <td>Washington da Silva Rosa</td>
+    </tr>
+    <tr>
+      <td nowrap>Chulé</td>
+      <td>Luis Alberto Teixeira Pires</td>
+    </tr>
+    <tr>
+      <td nowrap>Cara de Porco</td>
+      <td>Felipe Barbosa da Silva</td>
+    </tr>
+    <tr>
+      <td nowrap>Nega</td>
+      <td>Deise Pereira de Oliveira</td>
+    </tr>
+    <tr>
+      <td nowrap>Piolho</td>
+      <td>Alexandre Bandeira de Melo</td>
+    </tr>
+    <tr>
+      <td nowrap>dono da boca</td>
+      <td>Chefe</td>
+    </tr>
+    <tr>
+      <td nowrap>Feijão do Juramento</td>
+      <td>Alexandre Luiz Olimpio dos Santos</td>
+    </tr>
+    <tr>
+      <td nowrap>Canela de Vidro</td>
+      <td>Robson Luiz Monteiro Martins</td>
+    </tr>
+    <tr>
+      <td nowrap>Willian Rodrigues Vieira</td>
+      <td>Robocop</td>
+    </tr>
+    <tr>
+      <td nowrap>criminoso</td>
+      <td>vagabundo, manipulador, cafajeste, traficante, traficantes, traficadores</td>
+    </tr>
+    <tr>
+      <td nowrap>Franklin Michel da Costa Moura</td>
+      <td>Cara de Cavalo</td>
+    </tr>
+    <tr>
+      <td nowrap>Arlison Rezende dos Santos</td>
+      <td>Pokémon</td>
+    </tr>
+    <tr>
+      <td nowrap>Reinaldo Cardeal da Silva</td>
+      <td>Fofo</td>
+    </tr>
   </tbody>
 </table> 
